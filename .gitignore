@@ -1,0 +1,10 @@
+node_modules/
+src/
+vendor/
+vet_mvc.sql
+gulpfile.js
+package-lock.json
+package.json
+.DS_Store
+.env
+
